@@ -12,6 +12,6 @@
 
 <h3 align="center"><img src="./coding.png" width=35 /> <span>Languages - Frameworks - Libraries</span> <img src="./framework.png" width=35 /></h3>
 
-<code>C#</code> <code>ASP.Net Core</code> <code>Angular</code> <code>TypeScript</code> <code>JavaScript</code> <code>Tailwind</code> <code>CSS</code> <code>HTML</code> <code>Flowbite</code> <code>PHP</code> <code>Laravle</code> <code>MySQL</code> <code>MSSQL</code> <code>Linux</code> <code>Apache</code> <code>Ubuntu</code> <code>DigitalOcean</code> <code>JSON</code> <code>Git</code> <code>MaterialUI</code>
+<code>C#</code> <code>ASP.Net Core</code> <code>Angular</code> <code>TypeScript</code> <code>JavaScript</code> <code>Tailwind</code> <code>CSS</code> <code>HTML</code> <code>Flowbite</code> <code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>MSSQL</code> <code>Linux</code> <code>Apache</code> <code>Ubuntu</code> <code>DigitalOcean</code> <code>JSON</code> <code>Git</code> <code>MaterialUI</code>
 
 <hr/>
